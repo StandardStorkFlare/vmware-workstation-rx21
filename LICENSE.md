@@ -1,4 +1,4 @@
-# 
+# Enhance VMware Workstation for PC | VMware Workstation for Windows with custom VMware Workstation for PC | VMware Workstation for Windows Addon | shared-folders +
 
 
 
